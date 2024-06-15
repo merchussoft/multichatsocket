@@ -1,0 +1,19 @@
+{
+  "name": "socket_twitch_prueba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "merchussoft <merchussoft@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "16.4.5",
+    "express": "4.19.2",
+    "morgan": "1.10.0",
+    "node-fetch": "3.3.2",
+    "socket.io": "4.7.5",
+    "tmi.js": "1.8.5"
+  }
+}
